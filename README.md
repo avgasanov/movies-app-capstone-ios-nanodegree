@@ -4,7 +4,7 @@ Application is intended to help users find cinema sessions in local cinemas (Aze
 ## Structure
 Application consists of two screens:
 - Main screen is a collection view that shows movies poster, session times and cinema name. When user clicks on poster, segue is performed to transfer user to the next view controller (detail screen)
-- Detail screen shows additional information about movie, such as trailer in youtube, description and imdb rating
+- Detail screen shows additional information about movie, such as a trailer in youtube, description and imdb rating
 
 ## How to build?
 1) Clone repo/download zip of the project
