@@ -1,4 +1,4 @@
-# Movies app
+# Movie sessions app
 Application is intended to help users find cinema sessions in local cinemas (Azerbaijan).
 
 ## Structure
