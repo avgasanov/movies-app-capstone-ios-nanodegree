@@ -8,9 +8,16 @@ Application consists of two screens:
 
 ## How to build?
 1) Clone repo/download zip of the project
-2) Open xcode project file in xcode
+2) Open xcode project file in Xcode (.xcworkspace)
 3) Run on the simulator or virtual device
 No additional setup is required
+
+## Troubleshooting
+#### Pod files
+In case if you have build errors due to missing files:
+1) Install Cocoa Pods using: sudo gem install cocoapods
+2) Run "pod update" command in project folder
+3) Run project using .xcworkspace file
 
 ## About source
 Application uses firebase realtime database as a networked source to retrieve data about movie sessions. More on realtime database: [Firebase Realtime Database documentation](https://firebase.google.com/docs/database "Firebase Documentation")
